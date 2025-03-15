@@ -1,4 +1,4 @@
-# Book List built with Vue 3 + Vite
+# Book List built using Vue 3 + Vite
 
 ## A fully functional example project built with Vue 3 + Vite
 
